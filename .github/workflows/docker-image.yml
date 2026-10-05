@@ -8,7 +8,7 @@ on:
 
 jobs:
 
-  buildrahat:
+  buildrahat123456:
 
     runs-on: ubuntu-latest
 
