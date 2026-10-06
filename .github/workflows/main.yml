@@ -12,6 +12,7 @@ jobs:
 
   docker:
     runs-on: ubuntu-latest
+    needs: bcode_check
 
     steps:
       - uses: actions/checkout@v3
